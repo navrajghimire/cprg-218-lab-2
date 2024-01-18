@@ -93,6 +93,7 @@ Instructions:
 ## Desserts
 ### Chocolate Chip Cookies
 
+
 Ingredients:
 - 3 1/4 cups all-purpose flour
 - 2 tsp baking soda
@@ -115,3 +116,14 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 10.Enjoy your home made dessert "Chocolate Chip Cookies"
+
+
+### Lime soda
+
+Ingredients:
+- 2 cups water
+- 1 cup soda water
+- 1/4 cup fresh lime juice
+
+Instructions:
+1. Mix above drinks and enjoy your fresh lime soda

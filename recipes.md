@@ -118,12 +118,13 @@ Instructions:
 10.Enjoy your home made dessert "Chocolate Chip Cookies"
 
 
-### Lime soda
+### Lime soda with mint
 
 Ingredients:
 - 2 cups water
 - 1 cup soda water
 - 1/4 cup fresh lime juice
+- 3-4 mint leaves
 
 Instructions:
 1. Mix above drinks and enjoy your fresh lime soda

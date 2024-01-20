@@ -52,9 +52,10 @@ Instructions:
 Ingredients:
 - 1 pound spaghetti
 - 1 pound ground beef
-- 1/2 cup bread crumbs
-- 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 1/4 cup bread crumbs
+- 1/2 cup milk
+- 1/4 cup sesame seeds
+- 1/5 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
@@ -115,3 +116,14 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 10.Enjoy your home made dessert "Chocolate Chip Cookies"
+
+### Lime soda with mint
+
+Ingredients:
+- 4 cups water
+- 2 cup soda water
+- 1/4 cup fresh lime juice
+- 3-4 mint leaves
+
+Instructions:
+1. Mix above drinks and enjoy your fresh lime soda

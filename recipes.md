@@ -54,7 +54,6 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/8 cup sesame seeds
 - 1/4 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
@@ -73,14 +72,13 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
-- 4 boneless, skinless chicken breasts
+- 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
-- 4 tablespoons olive oil
-- 8 slices Swiss cheese
-- 8 hamburger buns
+- 2 tablespoons olive oil
+- 4 slices Swiss cheese
+- 4 hamburger buns
 - Lettuce
 - Tomato
-- Mint for fragrance
 - Mayonnaise
 
 Instructions:
@@ -94,17 +92,16 @@ Instructions:
 ## Desserts
 ### Chocolate Chip Cookies
 
-
 Ingredients:
-- 3 1/4 cups all-purpose flour
-- 2 tsp baking soda
-- 2 tsp salt
-- 2 cup unsalted butter, softened
-- 1/2 cup white sugar
-- 1/2 cup brown sugar
-- 3 eggs
-- 3 tsp vanilla extract
-- 3 cups semisweet chocolate chips
+- 2 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, softened
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 eggs
+- 2 tsp vanilla extract
+- 2 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -116,16 +113,3 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
-10.Enjoy your home made dessert "Chocolate Chip Cookies"
-
-
-### Lime soda with mint
-
-Ingredients:
-- 4 cups water
-- 2 cup soda water
-- 1/4 cup fresh lime juice
-- 3-4 mint leaves
-
-Instructions:
-1. Mix above drinks and enjoy your fresh lime soda

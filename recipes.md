@@ -80,6 +80,7 @@ Ingredients:
 - 8 hamburger buns
 - Lettuce
 - Tomato
+- Mint for fragrance
 - Mayonnaise
 
 Instructions:

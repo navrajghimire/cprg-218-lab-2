@@ -128,3 +128,16 @@ Ingredients:
 
 Instructions:
 1. Mix above drinks and enjoy your fresh lime soda
+
+
+### Lime soda with basil
+
+Ingredients:
+- 4 cups water
+- 2 cup soda water
+- 1/4 cup fresh lime juice
+- 3-4 basil leaves
+
+Instructions:
+1. Mix above drinks and enjoy your fresh lime soda with basil
+

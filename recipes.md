@@ -128,15 +128,3 @@ Ingredients:
 
 Instructions:
 1. Mix above drinks and enjoy your fresh lime soda
-
-
-### FOR REVERT TERSTING ONLY
-THE CONTENT BELOW HAS BEEN INCLUDED TO CHECJ THE GIT REVERT COMMAND ONLY
-Ingredients:
-- 2 cups water
-- 1 cup soda water
-- 1/4 cup fresh lime juice
-- 3-4 mint leaves
-
-Instructions:
-1. Mix above drinks and enjoy your drink

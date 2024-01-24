@@ -90,7 +90,6 @@ Instructions:
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
-7. You can also add Ketchup if required.
 
 ## Desserts
 ### Chocolate Chip Cookies
